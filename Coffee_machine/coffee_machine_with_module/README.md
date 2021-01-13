@@ -1,4 +1,5 @@
 #coffee_machine_documentation
+
 MenuItem Class
 
 
